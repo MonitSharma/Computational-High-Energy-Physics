@@ -13,6 +13,7 @@ This is repository that contain work on Machine Learning with the Large Hadron C
     <td class="tg-yw4l">Z-Boson mass measurement</td>
     <td class="tg-yw4l">Computing the mass of Z-boson</td>
     <td class="tg-yw4l"><a href="https://github.com/MonitSharma/High-Energy-Physics-with-ML/blob/main/Level%201/Mass_of_Z_Boson.ipynb" height = '23px' > 
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" height = '23px' >
     </a></td>
   </tr>
   <tr>
