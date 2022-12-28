@@ -46,6 +46,12 @@ In this online course students are introduced into the main concepts of the Phys
 An Introduction to Deep Learning with Keras, focused on using it on data from CERN and classification and generation of jet images. data handling etc.
 
 
+### [Quantum Computing Demo at CERN](https://github.com/MonitSharma/Computational-High-Energy-Physics/tree/main/Quantum%20Computing%20Demo%20%40%20CERN):
+
+This repo contains materials from the Quantum Computing Demo given by Maria Schuld for CERN
+This contains lecture slides and jupyter notebooks to get started with quantum computing.
+
+
 
 
 
